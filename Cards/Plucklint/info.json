@@ -1,5 +1,7 @@
 ﻿{
   "colour": "0078ff",
   "name": "Plucklint",
-  "description": "This is plucklint"
+  "description": "This is plucklint",
+  "pack":["MSM","SwampIsland","Niemerald"],
+  "rarity":"rare"
 }

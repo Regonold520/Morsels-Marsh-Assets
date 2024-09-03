@@ -1,5 +1,7 @@
 ﻿{
   "colour": "9396b9",
   "name": "One Turret",
-  "description": "This is the one turret"
+  "description": "This is the one turret",
+  "pack":["Kaplin","Godot","OneTurret"],
+  "rarity":"rare"
 }
